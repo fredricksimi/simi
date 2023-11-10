@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #000428, #004e92);
+    color: #fff;
+}
+
+.hoverdiv:hover {
+    background-color: rgba(148,163,184,0.2);
+    border-radius: .35rem;
+    transition-duration: .15s;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
+}
+a:hover {
+    color: #fff;
+}
