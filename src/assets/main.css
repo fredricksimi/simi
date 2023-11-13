@@ -1,6 +1,7 @@
 body {
     background: linear-gradient(to right, #000428, #004e92);
     color: #fff;
+    /* overflow-x: hidden; */
 }
 
 .hoverdiv:hover {
@@ -15,4 +16,7 @@ a{
 }
 a:hover {
     color: #fff;
+}
+.scrollable-section::-webkit-scrollbar {
+    display: none;
 }
