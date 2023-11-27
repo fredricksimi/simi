@@ -44,7 +44,7 @@ const Projects = () => {
             <p className="pt-2">
               <span className="badge py-1 px-3 mx-1 mb-2" style={skillStyle}>React</span>
               <span className="badge py-1 px-3 mx-1 mb-2" style={skillStyle}>TMDb API</span>
-              <span className="badge py-1 px-3 mx-1 mb-2" style={skillStyle}>Git</span>
+              <span className="badge py-1 px-3 mx-1 mb-2" style={skillStyle}>Tailwind</span>
               <span className="badge py-1 px-3 mx-1 mb-2" style={skillStyle}>Vercel</span>
             </p>
           </div>
