@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import resume from "./assets/Fredrick Simi-Resume.pdf";
+import resume from "./assets/Fredrick_Simi_Resume.pdf";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 const Experience = () => {
   const skillStyle = {
